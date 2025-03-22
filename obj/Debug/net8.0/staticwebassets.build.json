@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7EMFlDe5bnmBOkbkPKDaQo2X2KJWM3OldCc3lQd8EhA=",
+  "Source": "TaskBuddyApi",
+  "BasePath": "_content/TaskBuddyApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
